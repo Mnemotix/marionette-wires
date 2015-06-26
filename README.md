@@ -5,10 +5,10 @@ An opinionated example application built with Marionette.js.
 
 ## Quick start
 
-[Clone](http://git-scm.com/docs/git-clone) or [download](https://github.com/thejameskyle/marionette-wires/archive/master.zip) this repo.
+[Clone](http://git-scm.com/docs/git-clone) this repo.
 
 ```sh
-git clone https://github.com/thejameskyle/marionette-wires.git && cd marionette-wires
+git clone https://github.com/Mnemotix/marionette-wires.git && cd marionette-wires
 ```
 
 Make sure [Node.js](http://nodejs.org/) and [npm](https://www.npmjs.org/) are
